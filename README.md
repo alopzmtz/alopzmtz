@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hey there! 👋 I'm Alejandro, AKA the Full-stack Magician! ✨<br>Welcome to my GitHub profile, where I weave enchanting web applications and conjure up amazing user experiences. As a Full-stack Developer, I rock the front-end and back-end like nobody's business!<br><br>🔭 I’m currently working on SomniaHub<br>🌱 I’m currently learning Go, Lua<br>
+# Hey there! 👋 I'm Alejandro, AKA the Full-stack Magician! ✨
+## 💫 About Me:<br>
+Welcome to my GitHub profile, where I weave enchanting web applications and conjure up amazing user experiences. As a Full-stack Developer, I rock the front-end and back-end like nobody's business!<br><br>🔭 I’m currently working on SomniaHub<br>🌱 I’m currently learning Go, Lua<br>
 
 
 ## 🌐 Socials:
